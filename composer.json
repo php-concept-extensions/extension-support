@@ -1,6 +1,6 @@
 {
-    "name": "php-concept/support",
-    "description": "Concept Support — dependency-free runtime contract and factory helpers",
+    "name": "php-concept/extension-support",
+    "description": "Concept Extension Support — dependency-free runtime contract and factory helpers",
     "type": "library",
     "license": "MIT",
     "autoload": {
